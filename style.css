@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(95, 81, 0);
+    color: white;
+}
+
+.mainpage {
+    font-size: 30px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+h2 {
+    text-align: center;
+}
+
+p { 
+    font-style: italic;
+    font-size: 25px;
+}
+
+ul li {
+    font-size: 25px;
+}
+
+ol li {
+    margin-right: 10%;
+}
